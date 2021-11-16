@@ -42,6 +42,6 @@ Thank you for coming by! 😄
 <hr>
 
 <div align="center">
-    <a href="https://github.com/gustavopotrich"><img height="165em" src="https://github-readme-stats.vercel.app/api?username=gustavopotrich&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/></a>
-    <a href="https://github.com/gustavopotrich"><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopotrich&layout=compact&langs_count=7&theme=monokai"/></a>
+    <a href="https://github.com/gustavopotrich"><img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavopotrich&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/></a>
+    <a href="https://github.com/gustavopotrich"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopotrich&layout=compact&langs_count=7&theme=monokai"/></a>
 </div>
