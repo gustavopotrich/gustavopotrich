@@ -38,5 +38,3 @@ Thank you for coming by! 😄
   <a href = "mailto:gustavo.potrich@gmail.com"><img align="center" alt="gustavo-gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "mailto:gustavopotrich_@hotmail.com"><img align="center" alt="gustavo-outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div>
-
-<hr>
