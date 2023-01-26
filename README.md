@@ -23,8 +23,6 @@ Thank you for coming by! 😄
 <div class="learning">
     <a href="https://github.com/gustavopotrich"><img align="center" alt="gustavo-react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="https://github.com/gustavopotrich"><img align="center" alt="gustavo-node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/gustavopotrich"><img align="center" alt="gustavo-vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></a>
-    <a href="https://github.com/gustavopotrich"><img align="center" alt="gustavo-redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></a>
     <a href="https://github.com/gustavopotrich"><img align="center" alt="gustavo-typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
 </div>
 
