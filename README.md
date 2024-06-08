@@ -1,6 +1,6 @@
 Hello, I'm Gustavo Potrich and be welcome to my GitHub profile! 🎄
 
-I'm from Canoas, a city located on the metropolitan region of Porto Alegre in Rio Grande do Sul, Brazil and currently working at Digital Business. 🏡
+I'm from Canoas, a city located on the metropolitan region of Porto Alegre in Rio Grande do Sul, Brazil and currently working at OSF Digital. 🏡
 
 I'm looking to collaborate on front-end projects involvings technologies that I'm already working on, and those that I'm still learning, in order to reach and meet new developers, as well as to improve my personal and professional skills and abilities, also any kind of help, hints or suggestions on my projects would be very appreciated. 🤔 🖥️
 
