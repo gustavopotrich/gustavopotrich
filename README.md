@@ -1,10 +1,18 @@
-Hello, I'm Gustavo Potrich and be welcome to my GitHub profile! 🎄
+# Welcome to My GitHub Profile! 🎄
 
-I'm from Canoas, a city located on the metropolitan region of Porto Alegre in Rio Grande do Sul, Brazil and currently working at OSF Digital. 🏡
+Hello, I'm Gustavo Potrich, and I'm glad you're here!
 
-I'm looking to collaborate on front-end projects involvings technologies that I'm already working on, and those that I'm still learning, in order to reach and meet new developers, as well as to improve my personal and professional skills and abilities, also any kind of help, hints or suggestions on my projects would be very appreciated. 🤔 🖥️
+I'm based in Canoas, a city in the metropolitan region of Porto Alegre, Rio Grande do Sul, Brazil. Currently, I work at OSF Digital. 🏡
 
-Thank you for coming by! 😄
+## What I'm Working On
+
+I'm passionate about front-end development and am eager to collaborate on projects involving both the technologies I'm familiar with and those I'm still learning. My goal is to connect with fellow developers, enhance my skills, and contribute to exciting projects.
+
+## Let's Connect
+
+I'm always open to feedback, suggestions, or any kind of help on my projects. Your insights are invaluable to me as I strive to grow both personally and professionally. 🤔 🖥️
+
+Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate. 😄
 
 <hr>
 
